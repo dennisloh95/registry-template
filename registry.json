@@ -8,6 +8,7 @@
       "type": "registry:ui",
       "title": "Button",
       "description": "A simple hello world component",
+      "dependencies": ["@radix-ui/react-slot"],
       "files": [
         {
           "path": "registry/ui/button.tsx",
