@@ -27,6 +27,7 @@ const buttonVariants = cva(
         lg: "[&_svg]:size-5 [&_svg]:shrink-0 [&_img]:shrink-0 [&_img]:size-5 py-3 px-5 h-[48px] text-label-lg",
         md: "[&_svg]:size-5 [&_svg]:shrink-0 [&_img]:shrink-0 [&_img]:size-5 py-2.5 px-4 h-10 text-label-md",
         sm: "[&_svg]:size-4 [&_svg]:shrink-0 [&_img]:shrink-0 [&_img]:size-4 py-1.5 px-3 h-8 text-label-sm",
+        icon: "size-9",
       },
       extra: {
         pureIcon: "",
